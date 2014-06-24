@@ -1,0 +1,52 @@
+body {
+    background-color: dodgerblue;
+    font-family: Helvetica;
+    margin: 2% 0 0 5%;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: ;
+    text-align: center;
+}
+
+div.student {
+    float: left;
+    margin: 4% 5% 1% 10%;
+    background-color: white;
+    font-weight: 500;
+    padding: 4%;
+    height: 300px;
+    border: 3px solid black;
+}
+
+div.instructor {
+    float: left;
+    margin: 4% 5% 1% 5%;
+    background-color: white;
+    font-weight: 100;
+    padding: 4%;
+    border: 3px solid black;
+    height: 300px;
+}
+
+button {
+    position:absolute;
+    left: 37%;
+    bottom: 50px;
+    width: 25%;
+    height: 10%;
+    font-size: 120%;
+    box-shadow: 3px;
+}
+
+p {
+    font-size: 125%;
+}
+
+div.list_contain {
+    margin: 0 1% 0 17%;
+}
