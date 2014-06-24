@@ -1,0 +1,55 @@
+body {
+    background-color: white;
+    font-family: Helvetica;
+}
+
+h1 {
+    color: gold;
+    font-size: 300%;
+}
+
+section {
+    margin: 5%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    border: 3px solid black;
+    width: 98%;
+}
+
+li {
+    display: inline;
+    padding: 5px 20px 5px 5px;
+}
+
+button {
+    position: absolute;
+    left: 6%;
+    bottom: 50px;
+    background-color: goldenrod;
+    width: 10%;
+    height: 5%;
+    font-size: 120%;
+}
+
+p {
+    font-size: 125%;
+}
+
+form {
+    color: mediumpurple;
+    line-height: 500%;
+    font-size: 150%;
+}
+
+input.t {
+    width: 25%;
+}
+
+a {
+    color: mediumpurple;
+}
+
