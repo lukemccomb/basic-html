@@ -1,0 +1,19 @@
+*{
+    background-color: white;
+    font-family: Helvetica;
+}
+
+h1 {
+    font-size: 120%;
+}
+
+h2 {
+    color: deeppink;
+    text-align: center;
+}
+
+img {
+    width: 50%;
+    margin-left: 25%;
+    border: 1px;
+}
